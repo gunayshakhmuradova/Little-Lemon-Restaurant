@@ -1,7 +1,7 @@
 import Carousel from './specialsCarousel';
-import GreekSalad from '../../../assets/food/greek-salad.jpg';
-import Bruschetta from '../../../assets/food/bruschetta.jpg';
-import LemonDessert from '../../../assets/food/lemon-desert.jpg';
+import GreekSalad from '../../assets/food/greek-salad.jpg';
+import Bruschetta from '../../assets/food/bruschetta.jpg';
+import LemonDessert from '../../assets/food/lemon-desert.jpg';
 import SpecialCard from './cardInfo/specialCard';
 
 export default function Specials() {
@@ -9,7 +9,7 @@ export default function Specials() {
         <section className="specials">
             <article className="specials-topbar">
                 <h1>This weeks specials</h1>
-                <a className="action-button" href={require('../../../assets/menu.webp')} target="_blank" rel="noreferrer">Online Menu</a>
+                <a className="action-button" href={require('../../assets/img/menu.png')} target="_blank" rel="noreferrer">Online Menu</a>
             </article>
 
             <section className="specials-cards">

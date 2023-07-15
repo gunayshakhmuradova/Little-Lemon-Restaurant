@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
-import Homepage from "./pages/homePage.js";
-import About from "./pages/about.js";
-import Reservation from "./pages/bookingPage.js";
-import Order from "./pages/order.js";
-import Login from "./pages/login.js";
-import Confirmation from "./pages/confirmation.js";
+import Homepage from "../page/homePage.js";
+import About from "../page/about.js";
+import Reservation from "../page/bookingPage.js";
+import Order from "../page/order.js";
+import Login from "../page/login.js";
+import Confirmation from "../page/confirmation.js";
 
 export default function Routing() {
   return (

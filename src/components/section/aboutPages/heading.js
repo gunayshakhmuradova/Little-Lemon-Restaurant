@@ -1,4 +1,4 @@
-import HeroImage from "../../../assets/food/food2.jpg";
+import HeroImage from "../../assets/food/food2.jpg";
 export default function Heading() {
   return (
     <header className="reserve-table">

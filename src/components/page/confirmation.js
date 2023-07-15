@@ -1,4 +1,4 @@
-import HeroImage from "../../assets/food/food1.jpg";
+import HeroImage from "../assets/food/food1.jpg";
 import { Link } from "react-router-dom";
 export default function Confirmation() {
   return (
@@ -17,7 +17,7 @@ export default function Confirmation() {
       <section className="redirect-buttons">
         <a
           className="redirect-button"
-          href={require("../../assets/menu.png")}
+          href={require("../assets/img/menu.png")}
           target="_blank"
           rel="noreferrer"
         >

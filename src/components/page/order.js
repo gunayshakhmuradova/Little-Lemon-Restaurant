@@ -1,4 +1,4 @@
-import Heading from "../sections/orderPages/heading";
+import Heading from "../section/orderPages/heading.js";
 
 export default function Order() {
   return (
