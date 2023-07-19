@@ -1,3 +1,13 @@
+# Little Lemon restaurant
+<b>This is a Little lemon restaurant app.</b>
+<br><br>
+<img src="https://github.com/shzehra93/little-lemon-restaurant/assets/126316477/51fefcb8-95a9-422d-a244-919345af012e" alt="little-lemon" width="480" height="240">
+<br><br>
+<img src="https://github.com/shzehra93/little-lemon-restaurant/assets/126316477/771f9587-205b-432a-9a3e-00c99a10ff8f" alt="little-lemon" width="480" height="240">
+<br><br>
+<img src="https://github.com/shzehra93/little-lemon-restaurant/assets/126316477/7c3ab86d-549e-44c8-ae81-4900d78edd68" alt="little-lemon" width="480" height="240">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
