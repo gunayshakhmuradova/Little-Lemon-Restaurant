@@ -1,5 +1,5 @@
 # Little Lemon restaurant
-<b>This is a Little lemon restaurant app.</b>
+<b>This is a "Little lemon restaurant" app.</b>
 <br><br>
 <img src="https://github.com/shzehra93/little-lemon-restaurant/assets/126316477/51fefcb8-95a9-422d-a244-919345af012e" alt="little-lemon" width="480" height="240">
 <br><br>
